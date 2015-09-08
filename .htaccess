@@ -1,0 +1,8 @@
+AddDefaultCharset utf-8
+
+<Files "index.php">
+    allow from all
+</Files>
+<Files config.json>
+	Deny from all
+</Files>
